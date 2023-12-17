@@ -1,5 +1,5 @@
 ---
-[AIforge]()
+[AIforge](https://github.com/Khushalsarode/AIFORGE/blob/master/logo.png)
 # AIForge - All In Open Source
 
 AIForge is a platform that facilitates the discovery and sharing of free and open-source AI tools contributed by the community. It includes features for tool submission, approval, and exploration.
