@@ -192,7 +192,7 @@ gcloud builds submit --config cloudbuild.yaml
 
 Once the deployment is successful, you can access your Streamlit app on Google App Engine using the URL provided in the deployment output.
 
-That's it! This guide assumes that your Streamlit app script is named `streamlit_app.py`. Adjust file names and configurations based on your project's specifics. Make sure you have a valid `gcloud` configuration and the necessary permissions set up for Google Cloud.
+
 ## Contributing
 
 Feel free to contribute to the project by following our [contribution guidelines](CONTRIBUTING.md).
