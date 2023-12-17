@@ -55,6 +55,9 @@ st.markdown(
     - Click on the **Add Tool** button in the sidebar.
     - Fill in the details and contribute to the community!
 
+    ### Reach Out any Query or Feedback ➿
+    - Mail-us: admin@aiforgetech.co
+
     ### Start exploring now!
     - Check out the tools in the sidebar or use the search bar.
     
